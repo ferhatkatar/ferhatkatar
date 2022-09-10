@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferhat KATAR</h1>
 <h3 align="center">Data Scientist - Machine Learning Engineer</h3>
 
-- 🤝 I’m looking for help with **Data Science**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ferhatkatar](https://github.com/ferhatkatar)
 
 - 📝 I regularly write articles on Data Science and Machine Learning [https://medium.com/@katarferhat7](https://medium.com/@katarferhat7)
