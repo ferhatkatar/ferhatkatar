@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferhat KATAR</h1>
-<h3 align="center">Data Scientist - Machine Learning Enigeer</h3>
+<h3 align="center">Data Scientist - Machine Learning Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferhatkatar](https://github.com/ferhatkatar)
 
