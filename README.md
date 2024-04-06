@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ferhatkatar](https://github.com/ferhatkatar)
 
-- 📝 I regularly write articles on Data Science and Machine Learning [https://medium.com/@katarferhat7](https://medium.com/@katarferhat7)
+- 📝 Medium: [https://medium.com/@katarferhat7](https://medium.com/@katarferhat7)
 
 - 📫 How to reach me **katarferhat7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ferhat-katar-2b3a38139/](https://www.linkedin.com/in/ferhat-katar/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ferhat-katar/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
